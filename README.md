@@ -32,3 +32,6 @@ gem install pqueue
 http://www.rubydoc.info/gems/pqueue
 
 https://www.npmjs.com/package/algorithms
+
+<h3>Heap Visualization Tool</h3>
+https://www.cs.usfca.edu/~galles/visualization/Heap.html

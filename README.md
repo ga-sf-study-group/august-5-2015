@@ -13,12 +13,13 @@
 <p>Use a heap to find the k-th largest element in N items in roughly O(N) time when k is small or close to N</p>
 
 <h2>Problem 5</h2>
-<p>Find the median of n elements using two heaps</p>
+<p>Create a median heap, which extracts the median, from a set of values using two heaps.</p>
 
 <h2> Problem 6</h2>
 <p>Give an O(n lg k) - time algorithm to merge k sorted lists into one sorted list, where n is the total number of elements in all the input lists</p>
 
 <h2>Additional information:</h2>
+<p>To speed up development and allow us to focus on the uses of the heap datastructure, here are links to libraries which implement the heap data structure (aka Priorty Queue). One Javascript implementation is provided in this repository in datastructures/</p>
 
 http://www.cplusplus.com/reference/queue/priority_queue/
 
